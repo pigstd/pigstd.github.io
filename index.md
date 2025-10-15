@@ -1,3 +1,5 @@
-# Hello world!
+Output "Hello World" in the first line of index.html, "" is not include.
 
-This GitHub Pages site is now live.
+Output "Test for codex" in the second line of index.html, "" is not include.
+
+For the second line, use rainbow colors(each word a different color).
